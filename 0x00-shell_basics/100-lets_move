@@ -1,2 +1,2 @@
 #!/bin/bash
-mv tr [:upper:] * /tmp/u
+mv tr [:upper:]* /tmp/u

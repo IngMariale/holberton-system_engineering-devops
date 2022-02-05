@@ -1,2 +1,2 @@
 #!/bin/bash
-chowm --from=_hello:vicent staff
+chowm --from=_hello vicent staff

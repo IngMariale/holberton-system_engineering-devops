@@ -1,2 +1,3 @@
 #!/bin/bash
-file -F ^"SCHOOL"
+!:mime SCHOOL
+

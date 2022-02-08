@@ -1,2 +1,2 @@
 #!/bin/bash
-greg ^f /etc/passwd
+greg ^f /etc/ssh/sshd_config

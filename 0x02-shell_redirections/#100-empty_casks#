@@ -1,0 +1,7 @@
+Only the names of the files and directories should be displayed (not the entire path)
+
+Hidden files should be listed
+
+One file name per line
+
+The listing should end with a new line

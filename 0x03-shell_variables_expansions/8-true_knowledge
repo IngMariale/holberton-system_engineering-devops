@@ -1,0 +1,2 @@
+#!/bin/bash
+printev $(TRUEKNOWLEDGE +128)

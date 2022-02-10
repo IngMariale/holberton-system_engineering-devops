@@ -1,2 +1,2 @@
 #!/bin/bash
-find `c' . *gif  -printf %f'\n'
+find size `c' . *gif  -printf %f'\n'

@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -empty | ls -Rfad
+find . empty | ls -Rfad | echo "\n"
